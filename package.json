@@ -86,6 +86,8 @@
       "typings/"
     ],
     "parser": "babel-eslint",
-    "plugins": [ "flowtype" ]
+    "plugins": [
+      "flowtype"
+    ]
   }
 }
